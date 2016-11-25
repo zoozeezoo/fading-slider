@@ -1,2 +1,2 @@
 # fading-slider
-[//demo](https://zoozeezoo.github.io/fading-slider/)
+## [demo](https://zoozeezoo.github.io/fading-slider/)

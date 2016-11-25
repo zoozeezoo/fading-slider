@@ -22,7 +22,7 @@ html {
 }
 
 .container {
-  width: 920px;
+  width: 930px;
   margin: 0 auto;
   overflow: auto;
 }
@@ -64,7 +64,6 @@ header, footer {
 .slideBox {
   width: 500px;
   height: 400px;
-  float: left;
   display: inline-block;
 }
 
